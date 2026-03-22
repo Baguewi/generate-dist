@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Fond cercle bleu -->
+  <circle cx="32" cy="32" r="30" fill="#0033cc"/>
+  <!-- Reflet -->
+  <ellipse cx="24" cy="20" rx="10" ry="7" fill="white" opacity="0.2"/>
+  <!-- Bordure dorée -->
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#FFD700" stroke-width="3"/>
+  <!-- Étoile blanche à 5 branches -->
+  <path d="M32 12 L35.8 23.6 L48 23.6 L38 30.8 L41.8 42.4 L32 35.2 L22.2 42.4 L26 30.8 L16 23.6 L28.2 23.6 Z"
+        fill="white"/>
+</svg>
